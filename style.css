@@ -1,0 +1,16 @@
+.tanpa-boostrap {
+    border: none;
+    padding: 2px;
+    font-weight: 800;
+    font-size: 3em;
+    background-color: blue;
+    color: black;
+    cursor: pointer;
+}
+
+.tanpa-boostrap:hover {
+    background-color: aqua;
+    color: beige;
+    transform: rotateY(2);
+    transition: all .5s;
+}
